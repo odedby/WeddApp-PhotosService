@@ -1,0 +1,11 @@
+c:\users\papo\documents\visual studio 2012\Projects\WeddAppService\WeddAppService\bin\WeddAppService.dll
+c:\users\papo\documents\visual studio 2012\Projects\WeddAppService\WeddAppService\bin\WeddAppService.pdb
+c:\users\papo\documents\visual studio 2012\Projects\WeddAppService\WeddAppService\obj\Debug\WeddAppService.csprojResolveAssemblyReference.cache
+c:\users\papo\documents\visual studio 2012\Projects\WeddAppService\WeddAppService\obj\Debug\WeddAppService.dll
+c:\users\papo\documents\visual studio 2012\Projects\WeddAppService\WeddAppService\obj\Debug\WeddAppService.pdb
+C:\Users\papo\Documents\Visual Studio 2012\Projects\WeddAppService\WeddAppService\bin\Jayrock.Json.pdb
+C:\Users\papo84\Documents\Visual Studio 2012\Projects\WeddAppService\WeddAppService\bin\WeddAppService.dll
+C:\Users\papo84\Documents\Visual Studio 2012\Projects\WeddAppService\WeddAppService\bin\WeddAppService.pdb
+C:\Users\papo84\Documents\Visual Studio 2012\Projects\WeddAppService\WeddAppService\obj\Debug\WeddAppService.dll
+C:\Users\papo84\Documents\Visual Studio 2012\Projects\WeddAppService\WeddAppService\obj\Debug\WeddAppService.pdb
+C:\Users\papo84\Documents\Visual Studio 2012\Projects\WeddAppService\WeddAppService\obj\Debug\WeddAppService.csprojResolveAssemblyReference.cache
